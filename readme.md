@@ -1,7 +1,7 @@
 ## About MindK test app
 
 It is simple Web Application based on Laravel 6. 
-Auth panel with login and password fields. After authorization you get Studetns list.
+Auth panel with login and password fields. After authorization you get Students list.
 Ajax CRUD with list.
 Used jQuery and Twitter bootstrap 4.
 
@@ -33,9 +33,15 @@ Then seed example data
 	
 ## Screenshots
 
+![](https://github.com/utz0r2/mindk-test/blob/master/screenshots/1.png)
 
+![](https://github.com/utz0r2/mindk-test/blob/master/screenshots/2.png)
 
+![](https://github.com/utz0r2/mindk-test/blob/master/screenshots/3.png)
 
+![](https://github.com/utz0r2/mindk-test/blob/master/screenshots/4.png)
+
+![](https://github.com/utz0r2/mindk-test/blob/master/screenshots/5.png)
 
 ## Contacts
 - SKYPE: [utz0r2](skype:utz0r2)
